@@ -1,7 +1,6 @@
-binarySearch
-linearSearch
 a.out
 *.out
 *.exe
 *.o
 .DS_Store
+Outputs/
